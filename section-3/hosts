@@ -1,1 +1,1 @@
-sudo /home/max/linux-vm/3/hosts.sh >> /etc/hosts
+sudo bash ~/linux-vm/3/hosts.sh
